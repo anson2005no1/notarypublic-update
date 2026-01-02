@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.2.0",
+  "changelog": "修改了一些 bug",
+  "platforms": {
+    "windows": {
+      "enabled": true
+    },
+    "mac": {
+      "enabled": true
+    }
+  }
+}
