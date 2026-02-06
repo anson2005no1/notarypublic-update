@@ -1,6 +1,6 @@
 {
   "latest_version": "1.3.1",
-  "changelog": "C:\Users\User\AppData\Roaming\NotaryPublicSystem\NotaryPublic"\n因為資料庫邏輯變動，所以幫我把這個路徑(或類似路徑)的NotaryPublic資料夾裡面的東西都刪掉。\n這樣新的搜尋邏輯才會生效。\n感謝喔!
+  "changelog": ""C:\Users\User\AppData\Roaming\NotaryPublicSystem\NotaryPublic"\n因為資料庫邏輯變動，所以幫我把這個路徑(或類似路徑)的NotaryPublic資料夾裡面的東西都刪掉。\n這樣新的搜尋邏輯才會生效。\n感謝喔!"
   "platforms": {
     "windows": {
       "enabled": true
